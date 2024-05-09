@@ -2,12 +2,13 @@
 <h3 align="center">A 2nd Year Computer Science Student from Cincinnati</h3>
 
 - I’m currently working on **Navigation Application**
+  -An application that has everything you could need for a long road trip.
 
 - 🌱 I’m currently learning **C++, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jal patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jal patel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jal-patel-73046823b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jal patel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jalpatel0211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jalpatel0211" height="30" width="40" /></a>
 </p>
 
